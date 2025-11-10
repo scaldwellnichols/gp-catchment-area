@@ -2,7 +2,7 @@ import pathlib
 
 base_dir = pathlib.Path('.')
 data_dir = base_dir / 'data'
-output_dir = base_dir / 'output'
+output_dir = base_dir / 'outputs'
 
 # GP catchment area data URL
 gp_catchment_area_url = 'https://www.healthgis.nhs.uk/assets/shared/GP_catchments_data.zip'
